@@ -7,4 +7,4 @@
 - `index.html` - структура лендинга
 - `styles.css` - промышленная визуальная система и адаптивная верстка
 - `script.js` - mailto-форма заявки
-- `assets/industrial-chemistry-lab.png` - hero-изображение
+- `assets/industrial-chemistry-lab.svg` - hero-изображение
